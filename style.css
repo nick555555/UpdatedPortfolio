@@ -1,0 +1,49 @@
+html{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+header {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.page-footer {
+    margin-top: auto;
+    /* min-height: 10vh; */
+}
+
+.container {
+    min-height: 75vh;
+    margin: auto;
+}
+
+.portimg {
+    position: relative;
+    padding: 2%;
+}
+
+.imgtags {
+    position: absolute;
+    width: 200px;
+    z-index: 5;
+    bottom: 10%;
+}
+
+.myName {
+    height: 100%;
+    margin-left: 13%;
+}
+
+.navbar {
+    padding: 0%;
+}
+
+#profilepic {
+    padding-right: 2%;
+}
