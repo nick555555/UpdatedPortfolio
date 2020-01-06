@@ -1,3 +1,5 @@
 # UpdatedPortfolio
 
-Link to deployed version: https://nick555555.github.io/UpdatedPortfolio/
+Link to deployed version: https://nick555555.github.io/UpdatedPortfolio/  
+Includes files index.html, portfolio.html, contact.html, style.css and images codeQuiz.png, githubreal.png, linkedinreal.png, ParlorFlix.png, rsz_profilepic.jpg, UpdatedPortfolio.png, WeatherDashboard.png. Contained in the index.html is an about me section with a profile picture and a link to a pdf of my resume. Contained in portfolio.html are cards with images of deployed applications and buttons linking to the deployed applications and thier repositories. Contained in contact.html is a currently nonfuntional submission form. The header on each page lists my name and links to my Linkedin and GitHub accounts as well as navigation to each page of the website. The footer on each page include my email and phone number. This application utilizes Bootstrap styling.
+![Site Screenshot](Images\UpdatedPortfolio.png)
