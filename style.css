@@ -30,7 +30,7 @@ header {
 
 .imgtags {
     position: absolute;
-    width: 200px;
+    width: 260px;
     z-index: 5;
     bottom: 10%;
 }
@@ -42,6 +42,23 @@ header {
 
 .navbar {
     padding: 0%;
+}
+
+.linkIcon{
+    margin-left: 30%;
+}
+
+.projectScreen{
+    max-width: 260px;
+    max-height: 180px;
+}
+
+.linkButton{
+    margin-bottom: 5%;
+}
+
+.card{
+    margin: 0 auto;
 }
 
 #profilepic {
